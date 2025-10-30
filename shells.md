@@ -1,17 +1,21 @@
 
 # Shells Usage and Config
 
-Usage example bash
-```bash
+*Usage example bash*
+
+
+```sh
 # Встановлення змінної
 MY_VAR="Hello"
 echo $MY_VAR
 
 # Умовні конструкції
 if [ -f file.txt ]; then
-    echo "Файл існує"
+    echo1 "Файл існує"
 fi
 ```
+
+## Work with shells
 
 Usage exmple fish
 ```sh
@@ -24,6 +28,8 @@ if test -f file.txt
     echo "Файл існує"
 end
 ```
+
+### Some header
 
 Check what shell under usage
 
