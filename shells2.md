@@ -1,7 +1,7 @@
 
 # Shells Usage and Config
 
-**Usage example bash**
+*Usage example bash*
 
 
 ```sh
